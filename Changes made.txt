@@ -1,0 +1,22 @@
+Evaluation:
+Added evaluation of solution
+New page for each heading
+Evaluated resources used in evaluation of project plan
+
+Code complexities:
+Added positive feedback
+
+Testing:
+Made more failed tests
+Made legacy tests
+Added tests 42 and 50 to 53
+Changed screenshot headings to normal text so that they don't appear on table of contents
+
+User guide:
+Improved English
+Fixed headings
+Added page numbers
+Altered report for guide to accomodate for changes made
+
+Program:
+Implemented report parameters
